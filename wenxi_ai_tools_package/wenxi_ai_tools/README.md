@@ -1,4 +1,4 @@
-# 🚀 wenxi-ai-tools
+# 🚀 legacy model(for old python)
 
 A simple and practical Python package by **Wenxi** with both:
 
